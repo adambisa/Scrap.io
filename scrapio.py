@@ -106,4 +106,5 @@ print(scrape_any('https://www.alza.sk/hobby/konferencny-stolik-montana-130-70-cm
 print(scrape_any('https://www.nay.sk/apple-macbook-pro-16-m1-pro-512gb-2021-mk183sl-a-vesmirne-sivy'), 'nay')
 print(scrape_any('https://www.datart.sk/notebook-apple-macbook-air-13-6-m2-8x-gpu-256gb-starlight-sk-mly13sl-a.html'), 'datart')
 print(validate_url('https://www.alza.sk/hobby/konferencny-stolik-montana-130-70-cm-vyska-45-cm-podnozie-a-d7144761.htm'))
+
 '''

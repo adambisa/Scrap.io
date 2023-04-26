@@ -31,3 +31,4 @@ class Url():
             'message': f"Something you are interested in buying just got cheaper.{self.url}",
         }
         email.notify(**settings)
+print('this works')
